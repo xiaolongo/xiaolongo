@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Xiaolong Fan (范晓龙)
 
-You can use the [editor on GitHub](https://github.com/xiaolongo/xiaolongo/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Email: xiaolongfan@outlook.com
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+I am a Ph.D. candidate in the School of Electronic Engineering, Key Laboratory of Intelligent Perception and Image  Understanding, Ministry of Education, Xidian University, Xi'an,  China. 
 
-- Bulleted
-- List
+Supervisor: [Maoguo Gong](https://web.xidian.edu.cn/mggong/index.html). 
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### Research Interest
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Graph Neural Networks, Graph Representation Learning, Computer Vision.
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xiaolongo/xiaolongo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Publications
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Fan, X**., Gong, M., Xie, Y., Jiang, F., & Li, H. (2020). Structured self-attention architecture for graph-level representation learning. *Pattern Recognition*, *100*, 107084.
+
+**Fan, X.**, Gong, M., Wu Y., Li H., & Wang S. Gated Graph Pooling With Self-Loop For Graph Classification. In *2020 International Joint Conference on Neural Networks (IJCNN 2020)*.
+
+Xie, Y., Gong, M., Qin, A. K., Tang, Z., & **Fan, X**. (2019). TPNE: Topology preserving network embedding. *Information Sciences*, *504*, 20-31.
+
+Jiang, F., Gong, M., Zhan, T., & **Fan, X**. (2019). A Semisupervised GAN-Based Multiple Change Detection Framework in Multi-Spectral Images. *IEEE Geoscience and Remote Sensing Letters*.
+
+Xie, Y., Gong, M., Gao, Y., Qin, A. K., & **Fan, X.** (2019). A Multi-Task Representation Learning Architecture for Enhanced Graph Classification. *Frontiers in Neuroscience*, *13*.
+
